@@ -6,7 +6,7 @@ Although several of them are simple, practicing is always good enough. Neverthel
 
 Here are the summary of the projects:
 
--   **Visualizing COVID-19**
+-   [**Visualizing COVID-19**](Visualizing%20COVID-19.ipynb)
 
     -   Background:
 
@@ -16,7 +16,7 @@ Here are the summary of the projects:
 
         Visualize COVID-19 data from the first several weeks of the outbreak to see at what point this virus became a global pandemic.
 
--   **Dr. Semmelweis and the Importance of Handwashing**
+-   [**Dr. Semmelweis and the Importance of Handwashing**](Dr.%20Semmelweis%20and%20the%20Importance%20of%20Handwashing.ipynb)
 
     -   Background:
 
@@ -26,7 +26,7 @@ Here are the summary of the projects:
 
         Reanalyze the data that made Dr.Semmelweis discover the importance of handwashing and its impact on the hospital.
 
--   **Exploring Airbnb Market Trends**
+-   [**Exploring Airbnb Market Trends**](Exploring%20Airbnb%20Market%20Trends.ipynb)
 
     -   Background:
 
@@ -36,7 +36,7 @@ Here are the summary of the projects:
 
         Take a closer look at the New York Airbnb market by combining data from multiple file types.
 
--   **Modeling Car Insurance Claim Outcomes**
+-   [**Modeling Car Insurance Claim Outcomes**](Modeling%20Car%20Insurance%20Claim%20Outcomes.ipynb)
 
     -   Background:
 
@@ -46,7 +46,7 @@ Here are the summary of the projects:
 
         They've asked to use simple logistic regression, identifying the single feature that results in the best-performing model, as measured by accuracy.
 
--   **Hypothesis Testing with Men's and Women's Soccer Matches**
+-   [**Hypothesis Testing with Men's and Women's Soccer Matches**](Hypothesis%20Testing%20with%20Men's%20and%20Women's%20Soccer%20Matches.ipynb)
 
     -   Background:
 
@@ -56,7 +56,7 @@ Here are the summary of the projects:
 
         Are more goals scored in women's international soccer matches than men's? (Assume a 10% significance level)
 
--   **Clustering Bustabit Gambling Behavior**
+-   [**Clustering Bustabit Gambling Behavior**](Clustering%20Bustabit%20Gambling%20Behavior.ipynb)
 
     -   Background:
 
@@ -66,7 +66,7 @@ Here are the summary of the projects:
 
         Define relevant groups or clusters of Bustabit users to identify what patterns and behaviors of gambling persist. E.g., risk-averse, strategy to be more successful.
 
--   **Analyzing Students' Mental Health in SQL**
+-   [**Analyzing Students' Mental Health in SQL**](Analyzing%20Students'%20Mental%20Health%20in%20SQL.ipynb)
 
     -   Background:
 
