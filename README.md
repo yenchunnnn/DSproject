@@ -1,10 +1,10 @@
 Hello there!
 
-These are some projects I've practiced on Datacamp.
+I've practiced working on these projects on Datacamp.
 
-Although several of them are simple, practicing is always good enough. Nevertheless, I'll keep improving myself! 🚀
+Even though a few of them are easy, practice is always sufficient. Still, I'll never stop getting better! 🚀
 
-Here are the summary of the projects:
+The projects are summarized as follows:
 
 -   [**Visualizing COVID-19**](Visualizing%20COVID-19.ipynb)
 
@@ -74,6 +74,6 @@ Here are the summary of the projects:
 
     -   Task:
 
-        Find out if would come to a similar conclusion for international students and see if the length of stay is a contributing factor.
+        Find out if you would come to a similar conclusion for international students and see if the length of stay is a contributing factor.
 
 *Continue practicing...* 👩‍💻
